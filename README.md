@@ -1,0 +1,1 @@
+# binfa_osztalyositas
